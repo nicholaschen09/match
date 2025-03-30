@@ -52,6 +52,22 @@ python app.py
 localhost:5000
 ```
 
+### Backend (MAC)
+
+```bash
+# Move to backend directory
+cd backend
+
+# Set up virtual environment
+source venv/bin/activate
+
+# Start the flask server
+python app.py
+
+# The flask server should be set up at
+localhost:5000
+```
+
 ## Development
 
 - Frontend: Next.js with TypeScript and Tailwind CSS
